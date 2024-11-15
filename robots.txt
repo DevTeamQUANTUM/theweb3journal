@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://devteamquantum.github.io/theweb3journal/sitemap.xml
